@@ -1,0 +1,10 @@
+/* Configurações Globais e Tipografia */
+body {
+    font-family: 'Montserrat', sans-serif;
+    scroll-behavior: smooth;
+}
+
+/* Customizações adicionais para transições suaves */
+#carousel-track {
+    will-change: transform;
+}
